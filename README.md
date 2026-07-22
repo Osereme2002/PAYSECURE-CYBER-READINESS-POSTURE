@@ -26,7 +26,7 @@ PaySecure is scaling its operations and needs a comprehensive strategy to secure
 
 ## Note
 
-This is an academic coursework submission built around a fictional company for a postgraduate cybersecurity module (Aston University, London). It is shared here as a portfolio piece demonstrating applied risk management and governance skills, not as a real regulatory or consulting deliverable.
+This is an academic coursework submission built around a fictional company for a postgraduate cybersecurity module (Aston University, London). This coursework has already been submitted and graded, this is a revised version after considering the feedback of the lecturer. It is shared here as a portfolio piece demonstrating applied risk management and governance skills, not as a real regulatory or consulting deliverable.
 
 ## Author
 
