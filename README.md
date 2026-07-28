@@ -22,7 +22,7 @@ PaySecure is scaling its operations and needs a comprehensive strategy to secure
 
 | File | Description |
 |---|---|
-| `PaySecure_Cyber_Readiness_Posture_Plan.pdf` | Full report |
+| `PaySecure_Cyber_Resilience_Framework.pdf` | Full report |
 
 ## Note
 
